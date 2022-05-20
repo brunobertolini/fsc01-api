@@ -9,7 +9,7 @@
     "email": "dev@brunobertolini.com"
   },
   "scripts": {
-    "dev": "node server.js"
+    "start": "node api/index.js"
   },
   "dependencies": {
     "@koa/cors": "^3.3.0",
